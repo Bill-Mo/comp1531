@@ -1,0 +1,4 @@
+I am Bill.
+Today is Wednesday.
+This change is made in the new branch.
+conflict is gonna appear.

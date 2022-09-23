@@ -1,0 +1,1 @@
+As a CSE student, I want to run Gitlab pipelines faster so that I can make sure my code is working on CSE machine.

@@ -1,0 +1,1 @@
+The statement should belong to Requirement Analysis. Because this is a requirement that the software should be able to achieve. This requirement might come from user stories, which is part of Requirement Analysis. Also, it does not include a specific methods or solutions to achieve it.

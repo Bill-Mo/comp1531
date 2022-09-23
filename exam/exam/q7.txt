@@ -1,0 +1,1 @@
+the company assigned different branches to different user groups, such as developers and different customers, which improved the use of system.

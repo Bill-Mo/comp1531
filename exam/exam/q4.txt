@@ -1,0 +1,1 @@
+The statement should belong to Requirement Analysis. Beacuse this requirement should be generated from user stories or user cases. For example, if the users is hard to distinguish user from message while using apps, then the requirement might be generated. Also, this requirement is not in coding level, so it should be a part of Requirement Analysis.
