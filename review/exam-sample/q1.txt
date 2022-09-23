@@ -1,0 +1,5 @@
+Good requirements should be concise and not wordy, with one feature contained in one sentence. In this way developers can easily get the functionalities of each feature.
+
+Good requirements should be detailed, but shouldn't include every tiny details. Too little details might confused developers while too much details can limit ways to approach goals.
+
+Good requirements should include intents, not approaches so that developers can work on a clear direction.
